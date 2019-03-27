@@ -1,0 +1,20 @@
+{
+    "nodes": [
+    
+      {"id": "Joshua Malabanan", "group": 3},
+      {"id": "John Mico Bangit", "group": 3},
+      {"id": "Marvin Clyde Custodio", "group": 3},
+      {"id": "Kevin Roi Canete", "group": 3},
+      {"id": "Joshua Pentinio", "group": 3},
+      {"id": "Johnny Zarate", "group": 3},
+      {"id": "Jarod Alindogan", "group": 3},
+      {"id": "Paolo Syd Ruiz", "group": 3},
+      {"id": "Michael Forte", "group": 3},
+      {"id": "Renzo Pacho", "group": 3},
+      {"id": "Jaymar", "group": 3}
+    ],
+    "links": [
+      {"source": "Joshua Malabanan", "target": "Michael Forte", "value": 1},
+      {"source": "Marvin Clyde Custodio", "target": "Johnny Zarate", "value": 10000}
+    ]
+  }
